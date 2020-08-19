@@ -1,6 +1,20 @@
 # GitHubExplorer
 A Github Explorer project created in flutter using Git RESTFUL API and StateProvider.
 
+## Feature
+- Get repositories from public api for flutter user.
+- Display them on list view and save repository.
+- You can see the saved repository and can unsaved them.
+
+## ScreenShots
+![Image 1](https://user-images.githubusercontent.com/66963804/90644370-47eafe80-e252-11ea-9fbf-bf57de05484c.png)
+
+![Image 2](https://user-images.githubusercontent.com/66963804/90644382-4b7e8580-e252-11ea-9c66-1e205fdc2db7.png)
+
+![Image 3](https://user-images.githubusercontent.com/66963804/90644386-4c171c00-e252-11ea-9a71-e6ebad9591bc.png)
+
+![Image 4](https://user-images.githubusercontent.com/66963804/90644388-4cafb280-e252-11ea-8296-897685cc7351.png)
+
 ## Getting Started
 The Github Explorer contains the minimal implementation required to create project. The repository code is preloaded with some basic components like basic app architecture, app theme, constants and required dependencies to create a new project. By using Github Explorer code as standard initializer. This will also help in reducing setup & development time by allowing you to use same code pattern and avoid re-writing from scratch.
 
